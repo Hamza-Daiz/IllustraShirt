@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "181952283033",
+    "project_id": "illustrashirt-8eb67",
+    "storage_bucket": "illustrashirt-8eb67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181952283033:android:b9a89ccafe0cf49898d308",
+        "android_client_info": {
+          "package_name": "com.appdev.illustrashirt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181952283033-tjfk1nm1306295jab6kcd678pi8tu4l5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appdev.illustrashirt",
+            "certificate_hash": "f56fa9ad5cd6b736648a7949777b4553b278bbab"
+          }
+        },
+        {
+          "client_id": "181952283033-odkaj0kapdbu72klvb1703ak08la20tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw3AWJnsq3B20AHQe8i6872_CyUL4h1Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181952283033-odkaj0kapdbu72klvb1703ak08la20tv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
